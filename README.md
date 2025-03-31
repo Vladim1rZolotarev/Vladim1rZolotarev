@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет, меня зовут Владимир 👋
 
-<!--
-**Vladim1rZolotarev/Vladim1rZolotarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Vladim1rZolotarev)
 
-Here are some ideas to get you started:
+## 🚀 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я начинающий DevOps-инженер с интересом к веб-технологиям и программированию. Люблю изучать новые технологии и применять их в реальных проектах.
+
+
+## 🛠 Технологии и инструменты
+
+### Языки программирования
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Инструменты
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📈 Моя статистика GitHub
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Vladim1rZolotarev&show_icons=true&theme=radical)
+
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladim1rZolotarev&layout=compact&theme=radical)
+
+## 📫 Как со мной связаться
+
+- Telegram: [@your_telegram](https://t.me/Vladim1rZolotarev)
+- Email: thevz27@gmail.com
