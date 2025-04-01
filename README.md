@@ -20,11 +20,17 @@
 
 ## 📈 Моя статистика GitHub
 
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Vladim1rZolotarev)  
+
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Vladim1rZolotarev&show_icons=true&theme=radical)
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladim1rZolotarev&layout=compact&theme=radical)
 
+[![Стрик коммитов](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
+
+[![Трофеи](https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📫 Как со мной связаться
 
-- Telegram: [@your_telegram](https://t.me/Vladim1rZolotarev)
+- Telegram: [@Vladim1rZolotarev](https://t.me/Vladim1rZolotarev)
 - Email: thevz27@gmail.com
