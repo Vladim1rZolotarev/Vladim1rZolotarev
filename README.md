@@ -20,7 +20,7 @@
 
 ## 📈 Моя статистика GitHub
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Vladim1rZolotarev)  
+[![My Codewars](https://www.codewars.com/users/Vladim1rZolotarev/badges/large)](https://www.codewars.com/users/Vladim1rZolotarev)  
 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Vladim1rZolotarev&show_icons=true&theme=radical)
 
