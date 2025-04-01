@@ -1,6 +1,7 @@
 # Привет, меня зовут Владимир 👋
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Vladim1rZolotarev)
+[![My Codewars](https://www.codewars.com/users/Vladim1rZolotarev/badges/micro)](https://www.codewars.com/users/Vladim1rZolotarev) 
 
 ## 🚀 Обо мне
 
@@ -20,8 +21,6 @@
 
 ## 📈 Моя статистика GitHub
 
-[![My Codewars](https://www.codewars.com/users/Vladim1rZolotarev/badges/large)](https://www.codewars.com/users/Vladim1rZolotarev)  
-
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Vladim1rZolotarev&show_icons=true&theme=radical)
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladim1rZolotarev&layout=compact&theme=radical)
@@ -30,7 +29,7 @@
 
 [![Трофеи](https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📫 Как со мной связаться
+## 📫 Мои контакты
 
 - Telegram: [@Vladim1rZolotarev](https://t.me/Vladim1rZolotarev)
-- Email: thevz27@gmail.com
+- Email: [thevz27@gmail.com](mailto:thevz27@gmail.com)
